@@ -1,0 +1,5 @@
+saugat,pokhrel,David Jones,20,9848773848,9900889,biratnagar
+ashok,koirala,Emma Johnson,29,9282272,2992,sinduli
+raunak,singh,None,33,987262524,82927,haryana
+samir,bhatta,None,20,92827282,9282992,tokha
+sonu,koirala,None,20,20,20,kolkata
